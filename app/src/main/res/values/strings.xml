@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multipleflavorsample</string>
+    <string name="title_activity_chocolate">ChocolateActivity</string>
+    <string name="flavor_name">Bule Berry</string>
+    <string name="title_activity_common">CommonActivity</string>
+    <string name="blue_berry">Blue berry</string>
+</resources>

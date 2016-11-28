@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bule Berry</string>
+    <string name="title_activity_chocolate">Bule Berry Activity</string>
+    <string name="flavor_name">Bule Berry</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
+
